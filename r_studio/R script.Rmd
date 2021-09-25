@@ -7,12 +7,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# R markdown
 
-## HI I am Samantha
+A R Markdown file with a few introductory markdown
+comments and cells with the code from parts 2 (R)
+
+## Hi I am Samantha
 
 ### This is my first ST2195 assignment
 ### This is a R markdown file containing R code
+
+
+
 
 ```{r}
 for (i in 1:10)
